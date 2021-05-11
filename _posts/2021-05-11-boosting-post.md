@@ -7,5 +7,6 @@ categories: fastai bagging boosting
 그러다 일목요연하게 정리가 되어 있는 자료를 발견하였다!
 아래 해당 자료의 링크를 걸어둔다.
 
-boosting기법의이해
+Check out [boosting기법의이해]
+
 [boosting기법의이해]: https://www.slideshare.net/freepsw/boosting-bagging-vs-boosting
