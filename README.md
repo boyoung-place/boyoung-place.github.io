@@ -1,2 +1,4 @@
 # boyoung-place.github.io
-blog
+
+
+[blog page](boyoung-place.github.io)
