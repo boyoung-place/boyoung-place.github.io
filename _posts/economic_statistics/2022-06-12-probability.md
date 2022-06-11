@@ -9,7 +9,7 @@ categories: statistics economic-statistics
 ---
 
 K-MOOC 에서 제공하는 경제통계학 강의를 들으며 정리한 내용입니다. 활용한 이미지들은 출처표기가 따로 없는 경우에는 모두 해당 강의의 자료에서 가져온 것임을 참고해주세요. <br/>
-[경제통계학_강의페이지](http://www.kmooc.kr/courses/course-v1:SNUk+SNU212.204.2k+2021_T2/course/)
+[경제통계학 강의페이지](http://www.kmooc.kr/courses/course-v1:SNUk+SNU212.204.2k+2021_T2/course/)
 
 
 # Week5. 확률이란
