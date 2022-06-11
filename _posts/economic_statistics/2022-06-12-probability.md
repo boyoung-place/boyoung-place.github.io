@@ -3,7 +3,7 @@ title: "SNU경제통계학-Week5.확률이란"
 
 date: 2022-06-12
 
-categories: statistics economic-statistics probablity
+categories: statistics economic-statistics
 
 
 ---
