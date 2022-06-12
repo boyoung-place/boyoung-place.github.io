@@ -134,7 +134,7 @@ K-MOOC 에서 제공하는 경제통계학 강의를 들으며 정리한 내용�
 
 - 사전확률(prior probability) : 과거 경험에 비추어 P(A)= 1/2 상정 (사전 정보)
 - <img src="https://latex.codecogs.com/gif.latex?{P(A^C) = 1-P(A)=1/2}" /> 
-- 상식에 비추어 P(B|A) = 1 (알고 풀면 맞을 확률은 1)  <br/>
+- 상식에 비추어 <img src="https://latex.codecogs.com/gif.latex?{P(B} \mid {A)} = 1 " />  (알고 풀면 맞을 확률은 1)
 - <img src="https://latex.codecogs.com/gif.latex?{P(B\mid A^C)=1/4}" /> (사지선다 문제이므로 "모르고 찍으면" 맞을 확률은 4분의 1)
 - 베이즈 정리를 이용한 **사후확률(posterior probability)**의 계산, 확률의 업데이트(재평가)
   - ex. 양치기소년 : 자꾸 거짓말을 하니 사람들이 소년이 진실을 말할 확률을 점점 낮게 재평가
